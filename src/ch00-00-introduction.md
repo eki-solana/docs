@@ -1,6 +1,16 @@
 # Introduction
 
-CEXs (centralized exchanges) usually depend on central limit order books to process orders in real-time.
+Mato is a **revolutionary market structure** that is not dependent on liquidity providers and mitigates toxic MEV. It combines Frequent Batch Auctions (FBAs) with the streaming of swaps.
+
+For the first time in financial history, our DEX creates a **truly fair and scalable market** where:
+
+- Every trader gets the best possible price.
+
+- The market operates transparently without intermediaries or unfair practices.
+
+With this innovation, we’re setting a new standard for decentralized trading.
+
+<!-- CEXs (centralized exchanges) usually depend on central limit order books to process orders in real-time.
 _Explain some flaws with CEXs and why DEXs are better_
 
 However, DEXs introduced their own set of challenges, including:
@@ -22,4 +32,4 @@ For the first time in financial history, our DEX creates a **truly fair market**
 
 - The market operates transparently without intermediaries or unfair practices.
 
-With this innovation, we’re setting a new standard for decentralized trading.
+With this innovation, we’re setting a new standard for decentralized trading. -->

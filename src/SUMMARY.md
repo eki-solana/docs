@@ -5,14 +5,19 @@
 
 ## Theory
 
-- [Order Streaming](ch01-00-order-streaming.md)
+- [Frequent Batch Auctions](ch01-00-fba.md)
 
-- [Frequent Batch Auctions](ch02-00-fba.md)
+- [Traditional Continuous Trading](ch02-00-continuous-trading.md)
+
+  - [AMM vs FBA](ch02-01-amm-vs-fba.md)
+  - [CLOB vs FBA](ch02-02-clob-vs-fba.md)
+
+- [Order Streaming](ch03-00-order-streaming.md)
 
 ## Get Started
 
-- [How To Use](ch03-00-how-to-use.md)
+- [How To Use](ch04-00-how-to-use.md)
 
 ## Market Dynamics
 
-- [Market Dynamics](ch03-00-market-dynamics.md)
+- [Market Dynamics](ch05-00-market-dynamics.md)

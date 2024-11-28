@@ -1,6 +1,6 @@
 # Order Streaming
 
-Our DEX introduces a unique concept: instead of settling trades instantly, trades are **streamed continuously** over a time horizon.
+Our DEX introduces a unique concept: instead of settling trades instantly, trades can be **streamed continuously** over a time horizon.
 
 Here’s how it works:
 
@@ -13,4 +13,4 @@ Here’s how it works:
 This approach ensures:
 
 - **Fair Markets:** As trades are distributed across many slots, reducing the likelihood of price manipulation.
-- **Better Prices:** Streaming allows you to average out prices over time, reducing volatility and ensuring fairness.
+- **Better Prices:** Streaming allows you to average out prices over time, reducing volatility and reducing your price impact.
