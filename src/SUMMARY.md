@@ -5,9 +5,9 @@
 
 ## Theory
 
-- [Frequent Batch Auctions](ch01-00-fba.md)
+- [Traditional Continuous Trading](ch01-00-continuous-trading.md)
 
-- [Traditional Continuous Trading](ch02-00-continuous-trading.md)
+- [Frequent Batch Auctions](ch02-00-fba.md)
 
   - [AMM vs FBA](ch02-01-amm-vs-fba.md)
   - [CLOB vs FBA](ch02-02-clob-vs-fba.md)
